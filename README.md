@@ -37,7 +37,7 @@ A collection of free online utilities for developers.
 - Website Status Checker
 - And more developer utilities
 
-🌐 **Website:** https://onlinedevelopertool.com/
+🌐 **Website:** [OnlineDeveloperTool.com](https://onlinedevelopertool.com/)
 
 🔗 **Explore the project:** https://github.com/chaudhariparesh92/devtool
 
@@ -52,7 +52,7 @@ A collection of free online utilities for developers.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/chaudhariparesh92
-- Website: https://onlinedevelopertool.com/
+- Website: [OnlineDeveloperTool.com](https://onlinedevelopertool.com/)
 
 ---
 
